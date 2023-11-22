@@ -1,0 +1,110 @@
+[
+	{
+		"name": "Infinite gold",
+		"gold": 999999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Cultural increase",
+		"gold": 999,
+		"culture": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Faith increase",
+		"gold": 999,
+		"faith": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Hidden when religion is disabled", "Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Increase research speed",
+		"gold": 999,
+		"science": 30,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Food increase",
+		"gold": 999,
+		"food": 50,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "New unit XP increase",
+		"gold": 999,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["New [Military] units start with [9999] Experience [in this city]", "Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Increased city defense",
+		"gold": 999,
+		"cityStrength": 100,
+		"cityHealth": 1000,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Increased city production",
+		"gold": 999,
+		"production": 100,
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Scientist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Scientist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Engineer point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Engineer": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Artist point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Artist": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	},
+	{
+		"name": "Merchant point",
+		"gold": 999,
+		"greatPersonPoints": {"Great Merchant": 30},
+		"cost": 99999999999,
+		"hurryCostModifier": 99999999999,
+		"maintenance": 999,
+		"uniques": ["Unbuildable <for [AI player]>", "Cannot be purchased <for [AI player]>"]
+	}
+]
+
